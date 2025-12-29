@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Raj</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Real Life & AI projects S/W Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmani1u4&label=Profile%20views&color=0e75b6&style=flat" alt="rajmani1u4" /> </p>
 
@@ -8,12 +8,8 @@
 🎓 MCA Graduate  
 💼 Team Leader – DA (Data Analytics) at Infosys  
 💻 Former Web Developer (2 Years 6 Months Experience)
-
-🚀 Web/App Development | AI Proctoring | Python | Flask | MySQL  
  
 🔹 Currently working on a Project **Warehouse Management System**
-
-🔹 Interested in Real Life & AI projects
 🔹 Actively looking for a software developer role
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajmani1u4](https://github.com/rajmani1u4)
