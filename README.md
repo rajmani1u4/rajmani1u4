@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajmani1u4" alt="rajmani1u4" /></a> </p>
 
-- 🔭 I’m currently Pursuing **MCA**
-
-- 🌱 I’m currently learning **Cyber Security**
-
-- 👯 I’m Currently Working on **Freelancer**
-
-- 🤝 I’m looking for help with **Cyber Security, DevOps**
+🎓 MCA Graduate  
+💼 Team Leader – DA (Data Analytics) at Infosys  
+💻 Former Web Developer (2 Years 6 Months Experience)
+🚀 Web/App Development | AI Proctoring | Python | Flask | MySQL  
+ 
+🔹 Currently working on a Project **Warehouse Management System** 
+🔹 Interested in Real Life & AI projects
+🔹 Actively looking for a software developer role
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajmani1u4](https://github.com/rajmani1u4)
 
