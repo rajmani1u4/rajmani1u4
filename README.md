@@ -8,9 +8,11 @@
 🎓 MCA Graduate  
 💼 Team Leader – DA (Data Analytics) at Infosys  
 💻 Former Web Developer (2 Years 6 Months Experience)
+
 🚀 Web/App Development | AI Proctoring | Python | Flask | MySQL  
  
-🔹 Currently working on a Project **Warehouse Management System** 
+🔹 Currently working on a Project **Warehouse Management System**
+
 🔹 Interested in Real Life & AI projects
 🔹 Actively looking for a software developer role
 
