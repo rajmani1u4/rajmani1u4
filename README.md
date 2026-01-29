@@ -7,7 +7,7 @@
 
 🎓 MCA Graduate  
 💼 Team Leader – DA (Data Analytics) at Infosys  
-💻 Former Web Developer (2 Years 6 Months Experience)
+💻 Former Web Developer (June 2021- August 2023)
  
 🔹 Currently working on a Project **Warehouse Management System**
 🔹 Actively looking for a software developer role
