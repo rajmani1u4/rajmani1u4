@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajmani1u4" alt="rajmani1u4" /></a> </p>
 
 🎓 MCA Graduate  
-💼 Team Leader – DA (Data Analytics) at Infosys  
+💼 HI – Flipkart(1 Dec 2025 -28 Feb 2026)  
 💻 Former Web Developer (June 2021- August 2023)
  
 🔹 Currently working on a Project **Warehouse Management System**
